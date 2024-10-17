@@ -1,0 +1,3 @@
+def count-kmers(dna-sequence: str, k: int) -> dict:
+    # Function body here
+    pass
